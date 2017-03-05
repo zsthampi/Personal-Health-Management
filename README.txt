@@ -1,4 +1,4 @@
-TEAM MEMBERS
+TEAM MEMBERS:
 
 Unityid		Names
 zsthampi	Zubin Thampi
